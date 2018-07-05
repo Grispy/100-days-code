@@ -12,5 +12,6 @@ rl.question('enter number:',function(n){
     return a*fact(a-1);
   }
   console.log('factorial of number is');
+  
   console.log(fact(a));
 });
